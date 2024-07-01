@@ -24,14 +24,12 @@ body {
   filter: grayscale();
 }
 
-@media(max-width:300px){
-  .simply-countdown{  
-    display: flex;
-    width: 60%;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-  } 
+.simply-countdown{  
+  display: flex;
+  width: 60%;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
 }
 
 .hero {
