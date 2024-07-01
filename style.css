@@ -24,7 +24,7 @@ body {
   filter: grayscale();
 }
 
-@media(max-width:344px){
+@media(max-width:300px){
   .simply-countdown{  
     display: flex;
     width: 60%;
