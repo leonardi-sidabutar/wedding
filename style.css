@@ -30,6 +30,7 @@ body {
     width: 60%;
     flex-wrap: wrap;
     align-items: center;
+    justify-content: center;
   } 
 }
 
