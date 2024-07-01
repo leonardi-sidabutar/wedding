@@ -8,6 +8,7 @@ body {
   font-size: 1.2rem;
   font-family: 'Work Sans', sans-serif;
   min-height: 4000px;
+  padding-right: 0px!important;
 }
 
 .hero::before {
@@ -33,6 +34,7 @@ body {
 }
 
 .hero {
+  background: #00000080;
   position: relative;
   min-height: 100vh;
 }
