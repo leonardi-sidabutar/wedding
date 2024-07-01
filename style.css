@@ -24,6 +24,14 @@ body {
   filter: grayscale();
 }
 
+.simply-countdown{  
+  display: flex;
+  width: 54%;
+  flex-wrap: wrap;
+  align-items: center;
+
+}
+
 .hero {
   position: relative;
   min-height: 100vh;
